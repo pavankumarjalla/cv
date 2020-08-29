@@ -28,6 +28,6 @@ a:visited { color: grey; }     /* Visited links */
 a:active { color: red; }         /* Active links */
 /* Hovered links */
 a:hover {
-  background: #3fc1c9;
-  color: black;
+  background: #fbecec;
+  color: #440047;
   }
